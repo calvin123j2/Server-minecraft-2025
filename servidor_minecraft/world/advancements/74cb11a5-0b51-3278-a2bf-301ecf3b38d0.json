@@ -385,6 +385,7 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
+      "grass": "2025-01-09 19:50:11 +0000",
       "dirt": "2025-01-08 15:58:40 +0000"
     },
     "done": false
