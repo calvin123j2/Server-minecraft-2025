@@ -11469,3 +11469,17 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.advancem
 [09Jan2025 22:11:41.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> duerme pe
 [09Jan2025 22:12:00.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> ya te llame
 [09Jan2025 22:13:05.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[09Jan2025 22:15:26.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Rotten King]
+[09Jan2025 22:16:27.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.44.248.9:49595] logged in with entity id 2169 at (30.990663239106993, 61.0, 46.01837342796876)
+[09Jan2025 22:16:27.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
+[09Jan2025 22:16:27.740] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[09Jan2025 22:17:35.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq fell from a high place
+[09Jan2025 22:18:47.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[09Jan2025 22:22:38.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Zombie
+[09Jan2025 22:23:00.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Zombie
+[09Jan2025 22:23:00.951] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jan2025 22:23:00.951] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[09Jan2025 22:23:00.952] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jan2025 22:23:00.952] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jan2025 22:23:00.952] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[09Jan2025 22:23:39.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 drowned

@@ -769,5 +769,17 @@
     },
     "done": true
   },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2025-01-09 22:15:26 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-01-09 22:15:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

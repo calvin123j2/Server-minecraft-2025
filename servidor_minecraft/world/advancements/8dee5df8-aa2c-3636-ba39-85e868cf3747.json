@@ -305,6 +305,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:zombie": "2025-01-09 22:20:02 +0000",
       "minecraft:drowned": "2025-01-07 23:47:52 +0000",
       "minecraft:zombie_villager": "2025-01-07 23:17:20 +0000"
     },
@@ -402,17 +403,29 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-08 00:17:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-01-08 00:17:55 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "aquamirae:recipes/spinefish": {
     "criteria": {
-      "diamond": "2025-01-08 00:17:54 +0000"
+      "has_item": "2025-01-09 22:17:27 +0000"
     },
     "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2025-01-09 22:18:25 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
