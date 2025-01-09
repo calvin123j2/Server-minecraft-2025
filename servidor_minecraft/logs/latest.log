@@ -10525,3 +10525,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [09Jan2025 23:03:41.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was shot by Skeleton
 [09Jan2025 23:03:51.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was burnt to a crisp whilst fighting kevin123j2
 [09Jan2025 23:04:54.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Alex's Mobs]
+[09Jan2025 23:07:30.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq fell from a high place
+[09Jan2025 23:13:37.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Jan2025 23:13:37.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[09Jan2025 23:20:57.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has made the advancement [Bark Off]
+[09Jan2025 23:23:19.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-302, y=64, z=-38} BlockPos{x=-302, y=62, z=-38}
+[09Jan2025 23:23:19.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-302, y=64, z=-38} BlockPos{x=-302, y=62, z=-38}
+[09Jan2025 23:23:19.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-302, y=64, z=-38} BlockPos{x=-302, y=62, z=-38}
