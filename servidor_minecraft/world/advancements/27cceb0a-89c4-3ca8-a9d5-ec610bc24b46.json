@@ -440,6 +440,7 @@
       "minecraft:pillager": "2025-01-08 15:50:32 +0000",
       "minecraft:skeleton": "2025-01-08 22:12:08 +0000",
       "minecraft:spider": "2025-01-08 19:27:18 +0000",
+      "minecraft:creeper": "2025-01-09 21:24:06 +0000",
       "minecraft:zombie": "2025-01-08 16:35:12 +0000"
     },
     "done": false
@@ -615,6 +616,18 @@
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2025-01-09 20:24:51 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-01-09 21:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "neapolitan:strawberry_bush": "2025-01-09 21:25:19 +0000"
     },
     "done": true
   },

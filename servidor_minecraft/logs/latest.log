@@ -10661,3 +10661,106 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [09Jan2025 20:59:43.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt fell from a high place
 [09Jan2025 20:59:57.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 fell from a high place
 [09Jan2025 21:00:01.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> XDDDDDDDD
+[09Jan2025 21:01:01.062] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Karleen'/26356, l='ServerLevel[world]', x=-271.33, y=63.00, z=16.81] died: Karleen was scorched by kevin123j2
+[09Jan2025 21:03:10.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> jos donde estas
+[09Jan2025 21:04:36.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Timed out
+[09Jan2025 21:04:36.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[09Jan2025 21:05:29.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.121.44.211:33375] logged in with entity id 33158 at (-300.4588128028981, 63.0, -35.61609339111704)
+[09Jan2025 21:05:29.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[09Jan2025 21:05:29.294] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[09Jan2025 21:05:32.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Weed Wacker]
+[09Jan2025 21:05:45.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> estoy en mis terenos
+[09Jan2025 21:05:50.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> cerca de la costa
+[09Jan2025 21:05:51.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> donde es eso
+[09Jan2025 21:05:58.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> vas a vivir en la cosa?
+[09Jan2025 21:06:03.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> simon
+[09Jan2025 21:09:23.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was slain by kevin123j2
+[09Jan2025 21:09:55.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by davisdrt
+[09Jan2025 21:11:21.758] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[09Jan2025 21:11:21.758] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[09Jan2025 21:11:21.758] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[09Jan2025 21:12:01.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> wilted
+[09Jan2025 21:12:04.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> o como se llame
+[09Jan2025 21:12:10.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> don
+[09Jan2025 21:12:18.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> todavioa no despierta
+[09Jan2025 21:12:20.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> pero si esta
+[09Jan2025 21:12:29.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> comenzo a apagar las antorchas de mis tierras
+[09Jan2025 21:12:39.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davisdrt lost connection: Disconnected
+[09Jan2025 21:12:39.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt left the game
+[09Jan2025 21:12:47.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Wilted
+[09Jan2025 21:12:52.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> te dije xddd
+[09Jan2025 21:12:53.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Wilted
+[09Jan2025 21:13:06.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> escondete bajo tierra pe
+[09Jan2025 21:13:24.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davisdrt[/127.215.198.66:48957] logged in with entity id 35079 at (-280.5306683190799, 66.0, 12.35293154934272)
+[09Jan2025 21:13:24.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt joined the game
+[09Jan2025 21:13:24.183] [Server thread/INFO] [Jade/]: Syncing config to davisdrt (74cb11a5-0b51-3278-a2bf-301ecf3b38d0)
+[09Jan2025 21:13:24.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> agradecido de haber hecho un bunker
+[09Jan2025 21:13:30.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was struck by lightning whilst fighting Crawler
+[09Jan2025 21:14:16.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Wilted
+[09Jan2025 21:14:19.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was slain by Wilted
+[09Jan2025 21:14:22.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Wilted
+[09Jan2025 21:14:26.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> barabarabara
+[09Jan2025 21:14:54.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was slain by Mutant Zombie
+[09Jan2025 21:15:47.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-280, y=61, z=26} BlockPos{x=-273, y=66, z=40}
+[09Jan2025 21:15:48.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Wilted
+[09Jan2025 21:15:50.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was slain by Nightmare Stalker
+[09Jan2025 21:15:54.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> como? xddd
+[09Jan2025 21:15:58.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was slain by Nightmare Stalker
+[09Jan2025 21:16:20.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
+[09Jan2025 21:16:20.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Mutant Zombie
+[09Jan2025 21:16:24.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> que cara
+[09Jan2025 21:16:39.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was shot by Skeleton
+[09Jan2025 21:16:44.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 liquified to Fanta juice
+[09Jan2025 21:16:50.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was shot by Skeleton
+[09Jan2025 21:17:09.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was slain by Mutant Zombie
+[09Jan2025 21:17:14.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was slain by Wilted
+[09Jan2025 21:17:45.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was doomed to fall by Mutant Zombie
+[09Jan2025 21:17:49.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> sobrevivi
+[09Jan2025 21:18:09.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> hos
+[09Jan2025 21:18:10.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> josm
+[09Jan2025 21:18:13.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Zombie Bruiser
+[09Jan2025 21:18:14.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> barabarabara
+[09Jan2025 21:18:16.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> mis cosas
+[09Jan2025 21:18:18.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> estoy lejos
+[09Jan2025 21:18:18.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> jos???
+[09Jan2025 21:18:22.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> no las tengo xdd
+[09Jan2025 21:18:22.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> mis cosas
+[09Jan2025 21:18:25.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> solo salve las mias
+[09Jan2025 21:18:31.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> bueno casi
+[09Jan2025 21:18:37.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> el libro es lo unico que me importa
+[09Jan2025 21:18:46.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> aparte tengo un hacha y una ballesta xdd
+[09Jan2025 21:18:54.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt burned to death
+[09Jan2025 21:19:08.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> el verdadero que clase de sitio es esteeeeeeeeeee
+[09Jan2025 21:19:32.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was squashed by a falling anvil
+[09Jan2025 21:19:38.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Zombie Bruiser
+[09Jan2025 21:19:46.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> pero si ya es de dia xdd
+[09Jan2025 21:19:54.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Zombie
+[09Jan2025 21:20:08.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt burned to death
+[09Jan2025 21:20:15.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was squashed by a falling anvil
+[09Jan2025 21:20:28.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was squashed by a falling anvil
+[09Jan2025 21:20:28.924] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jan2025 21:20:28.924] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[09Jan2025 21:20:28.925] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jan2025 21:20:28.925] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jan2025 21:20:28.925] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[09Jan2025 21:20:34.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was squashed by a falling anvil
+[09Jan2025 21:21:00.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Zombie
+[09Jan2025 21:21:19.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was slain by Zombie
+[09Jan2025 21:21:24.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Mutant Zombie
+[09Jan2025 21:21:46.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Mutant Zombie
+[09Jan2025 21:21:52.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> jajaj
+[09Jan2025 21:21:55.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was doomed to fall by Mutant Zombie
+[09Jan2025 21:22:13.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Mutant Zombie
+[09Jan2025 21:22:18.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was slain by Zombie
+[09Jan2025 21:22:36.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Mutant Zombie
+[09Jan2025 21:23:16.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was slain by Mutant Zombie
+[09Jan2025 21:24:06.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq has reached the goal [Exorcism]
+[09Jan2025 21:24:18.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 fell from a high place
+[09Jan2025 21:24:41.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was slain by Mutant Zombie
+[09Jan2025 21:25:19.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq has made the advancement [A Seedy Place]
+[09Jan2025 21:26:07.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was slain by Mutant Zombie
+[09Jan2025 21:26:24.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was struck by Jos3enriq's shooting stars
+[09Jan2025 21:26:24.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was slain by Mutant Zombie
+[09Jan2025 21:27:02.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> finalmente
+[09Jan2025 21:27:05.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was slain by kevin123j2
+[09Jan2025 21:29:16.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-303, y=67, z=-37} BlockPos{x=-303, y=68, z=-37}

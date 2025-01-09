@@ -573,6 +573,7 @@
     "criteria": {
       "cabbage": "2025-01-08 18:37:11 +0000",
       "tomato": "2025-01-08 18:36:20 +0000",
+      "sugar_cane": "2025-01-09 21:09:47 +0000",
       "wheat": "2025-01-08 17:47:30 +0000",
       "melon": "2025-01-08 17:47:30 +0000",
       "carrot": "2025-01-08 18:37:43 +0000"
@@ -759,6 +760,12 @@
   "immersive_weathering:immersive_weathering/bark_off": {
     "criteria": {
       "wax_off": "2025-01-09 19:16:07 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/weeds": {
+    "criteria": {
+      "wheat": "2025-01-09 21:05:32 +0000"
     },
     "done": true
   },
