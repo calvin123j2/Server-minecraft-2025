@@ -179,13 +179,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:beach": "2025-01-09 15:57:56 +0000",
-      "minecraft:plains": "2025-01-09 15:57:23 +0000"
-    },
-    "done": false
-  },
   "beachparty:palm_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-09 15:57:22 +0000"
@@ -279,6 +272,32 @@
   "beachparty:lounge_chair": {
     "criteria": {
       "has_the_recipe": "2025-01-09 15:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-01-09 15:57:56 +0000",
+      "minecraft:plains": "2025-01-09 15:57:23 +0000",
+      "autumnity:autumnity:pumpkin_fields": "2025-01-09 16:05:21 +0000"
+    },
+    "done": false
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2025-01-09 16:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-01-09 16:02:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-01-09 16:05:42 +0000"
     },
     "done": true
   },
