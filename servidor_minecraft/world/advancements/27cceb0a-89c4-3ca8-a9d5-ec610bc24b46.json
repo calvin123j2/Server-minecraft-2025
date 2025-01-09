@@ -604,5 +604,11 @@
     },
     "done": false
   },
+  "immersive_weathering:immersive_weathering/bark_off": {
+    "criteria": {
+      "wax_off": "2025-01-09 19:21:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
