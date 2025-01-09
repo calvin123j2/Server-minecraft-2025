@@ -485,5 +485,11 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-01-09 23:45:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
