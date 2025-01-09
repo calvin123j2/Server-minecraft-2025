@@ -10540,3 +10540,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [09Jan2025 19:28:21.491] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-314, y=63, z=-28} BlockPos{x=-316, y=62, z=-27}
 [09Jan2025 19:28:23.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-315, y=64, z=-34} BlockPos{x=-317, y=62, z=-36}
 [09Jan2025 19:28:23.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-315, y=64, z=-34} BlockPos{x=-317, y=62, z=-36}
+[09Jan2025 19:43:25.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq hit the ground too hard
+[09Jan2025 19:43:29.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> XD
+[09Jan2025 19:43:42.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was slain by Nightmare Stalker
+[09Jan2025 19:44:21.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Restless Spirit
+[09Jan2025 19:47:37.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt withered away
+[09Jan2025 19:47:37.115] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jan2025 19:47:37.115] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 13 is dual wielding: false
+[09Jan2025 19:47:37.116] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[09Jan2025 19:47:37.116] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[09Jan2025 19:47:37.116] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 5
+[09Jan2025 19:48:01.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt withered away
+[09Jan2025 19:48:03.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:43999] logged in with entity id 13597 at (269.9214906086645, 64.0, -602.4249392846249)
+[09Jan2025 19:48:03.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[09Jan2025 19:48:03.501] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[09Jan2025 19:48:29.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt withered away
+[09Jan2025 19:48:46.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[09Jan2025 19:48:59.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt withered away
+[09Jan2025 19:49:06.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5484ms or 109 ticks behind
