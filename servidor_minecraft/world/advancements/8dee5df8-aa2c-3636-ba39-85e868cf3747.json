@@ -522,5 +522,11 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2025-01-10 01:26:07 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

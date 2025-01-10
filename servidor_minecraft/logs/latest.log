@@ -10620,3 +10620,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Jan2025 01:27:28.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
 [10Jan2025 01:27:28.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
 [10Jan2025 01:27:33.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by 789123
+[10Jan2025 01:29:07.451] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:47389] logged in with entity id 2015 at (-274.8374298379783, 67.0, 27.166228812547388)
+[10Jan2025 01:29:07.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[10Jan2025 01:29:07.570] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[10Jan2025 01:31:41.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Direwolf
+[10Jan2025 01:31:51.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> s
+[10Jan2025 01:32:01.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> ahuevo
+[10Jan2025 01:32:04.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> tengo derechos
