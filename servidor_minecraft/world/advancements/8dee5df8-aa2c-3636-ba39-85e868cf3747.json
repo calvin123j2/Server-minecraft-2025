@@ -308,6 +308,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-09 23:03:50 +0000",
+      "minecraft:spider": "2025-01-10 01:06:09 +0000",
       "minecraft:zombie": "2025-01-09 22:20:02 +0000",
       "minecraft:drowned": "2025-01-07 23:47:52 +0000",
       "minecraft:zombie_villager": "2025-01-07 23:17:20 +0000"
@@ -455,9 +456,57 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-09 22:48:23 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-01-09 22:48:29 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-01-09 22:55:39 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-01-09 23:20:55 +0000"
+    },
+    "done": false
+  },
   "immersive_weathering:immersive_weathering/bark_off": {
     "criteria": {
       "wax_off": "2025-01-09 23:20:57 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-01-09 23:45:21 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-01-10 00:04:45 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nowhowdo_iconfigurethiscrap": {
+    "criteria": {
+      "nowhowdo_iconfigurethiscrap_0": "2025-01-10 00:46:01 +0000"
+    },
+    "done": true
+  },
+  "sniffsweapons:recipes/decoration/binding_string": {
+    "criteria": {
+      "has_string": "2025-01-10 00:52:11 +0000"
     },
     "done": true
   },
@@ -470,54 +519,6 @@
   "undead_revamp2:daddy": {
     "criteria": {
       "daddy_0": "2025-01-10 01:01:11 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_all_illager_structures": {
-    "criteria": {
-      "illager_camp": "2025-01-09 23:20:55 +0000"
-    },
-    "done": false
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
-    "criteria": {
-      "requirement": "2025-01-09 22:48:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-01-09 22:48:23 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:nowhowdo_iconfigurethiscrap": {
-    "criteria": {
-      "nowhowdo_iconfigurethiscrap_0": "2025-01-10 00:46:01 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
-    "criteria": {
-      "requirement": "2025-01-09 22:55:39 +0000"
-    },
-    "done": true
-  },
-  "sniffsweapons:recipes/decoration/binding_string": {
-    "criteria": {
-      "has_string": "2025-01-10 00:52:11 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/warrior": {
-    "criteria": {
-      "has_item": "2025-01-10 00:04:45 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dark_metallurgy": {
-    "criteria": {
-      "dark_metallurgy_0": "2025-01-09 23:45:21 +0000"
     },
     "done": true
   },
