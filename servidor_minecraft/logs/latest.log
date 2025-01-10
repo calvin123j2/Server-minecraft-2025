@@ -10627,3 +10627,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Jan2025 01:31:51.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> s
 [10Jan2025 01:32:01.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> ahuevo
 [10Jan2025 01:32:04.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> tengo derechos
+[10Jan2025 01:41:58.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has made the advancement [A Seedy Place]
+[10Jan2025 01:44:15.710] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 lost connection: Disconnected
+[10Jan2025 01:44:15.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game

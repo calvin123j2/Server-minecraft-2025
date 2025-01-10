@@ -277,6 +277,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-01-10 01:39:34 +0000",
       "minecraft:beach": "2025-01-07 23:15:12 +0000",
       "minecraft:river": "2025-01-07 23:16:30 +0000",
       "minecraft:forest": "2025-01-07 23:32:08 +0000",
@@ -525,6 +526,18 @@
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
       "charm_collector_0": "2025-01-10 01:26:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-10 01:41:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-01-10 01:41:58 +0000"
     },
     "done": false
   },
