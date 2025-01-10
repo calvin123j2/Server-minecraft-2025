@@ -821,5 +821,11 @@
     },
     "done": true
   },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry_0": "2025-01-10 23:10:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
