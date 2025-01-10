@@ -651,6 +651,18 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-01-10 00:43:01 +0000"
+    },
+    "done": true
+  },
+  "beachparty:sand_bucket_block": {
+    "criteria": {
+      "has_wooden_shovel": "2025-01-10 00:42:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-01-10 00:06:45 +0000"
