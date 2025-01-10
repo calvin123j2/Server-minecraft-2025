@@ -681,5 +681,11 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-01-10 01:52:31 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
