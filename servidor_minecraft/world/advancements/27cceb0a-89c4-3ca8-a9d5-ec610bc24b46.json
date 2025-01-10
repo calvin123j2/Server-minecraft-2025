@@ -281,6 +281,7 @@
       "minecraft:sunflower_plains": "2025-01-08 15:25:59 +0000",
       "minecraft:beach": "2025-01-08 14:44:04 +0000",
       "minecraft:river": "2025-01-08 15:20:35 +0000",
+      "minecraft:stony_shore": "2025-01-10 02:10:00 +0000",
       "minecraft:forest": "2025-01-08 14:47:49 +0000",
       "autumnity:autumnity:maple_forest": "2025-01-10 02:05:34 +0000",
       "minecraft:ocean": "2025-01-08 14:45:35 +0000",
@@ -606,6 +607,7 @@
   },
   "hopo:minecraft/adventure/locate_all_underwater_structures": {
     "criteria": {
+      "locate_underwater_small_ruins": "2025-01-10 02:31:17 +0000",
       "locate_ruin_cold": "2025-01-08 22:59:27 +0000"
     },
     "done": false
