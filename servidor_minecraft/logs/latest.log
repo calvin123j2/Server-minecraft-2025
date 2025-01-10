@@ -10488,3 +10488,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Jan2025 17:17:52.201] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
 [10Jan2025 17:32:55.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
 [10Jan2025 17:32:55.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[10Jan2025 17:53:50.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] alguien esta jugando?
