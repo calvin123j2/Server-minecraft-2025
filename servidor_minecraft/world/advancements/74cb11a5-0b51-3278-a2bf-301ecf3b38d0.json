@@ -723,6 +723,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-10 00:50:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-01-10 00:49:46 +0000"
+    },
+    "done": true
+  },
   "yungscavebiomes:frosted_caves": {
     "criteria": {
       "frosted_caves": "2025-01-10 00:17:35 +0000"
