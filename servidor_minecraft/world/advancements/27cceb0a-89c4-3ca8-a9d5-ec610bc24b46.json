@@ -669,6 +669,12 @@
     },
     "done": false
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-01-10 00:57:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-01-10 00:06:45 +0000"
