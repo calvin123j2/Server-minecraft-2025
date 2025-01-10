@@ -10483,3 +10483,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Jan2025 17:07:11.350] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [10Jan2025 17:11:52.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [10Jan2025 17:11:52.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[10Jan2025 17:17:51.981] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.121.44.211:54781] logged in with entity id 110 at (-316.1131974760688, 63.0, -31.70692571627432)
+[10Jan2025 17:17:52.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[10Jan2025 17:17:52.201] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
