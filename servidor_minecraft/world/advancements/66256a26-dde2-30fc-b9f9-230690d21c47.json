@@ -651,7 +651,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-01-08 19:24:18 +0000"
+      "in_better_spider_dungeon": "2025-01-08 19:24:18 +0000",
+      "in_better_monster_room": "2025-01-11 00:37:24 +0000"
     },
     "done": false
   },
@@ -832,6 +833,18 @@
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
       "junior_summoner_0": "2025-01-10 23:48:26 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-01-11 00:37:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-01-11 00:38:48 +0000"
     },
     "done": true
   },

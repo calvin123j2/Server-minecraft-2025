@@ -529,7 +529,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-01-08 19:24:22 +0000"
+      "in_better_spider_dungeon": "2025-01-08 19:24:22 +0000",
+      "in_better_monster_room": "2025-01-11 00:38:23 +0000"
     },
     "done": false
   },
@@ -693,6 +694,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-01-11 00:32:05 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-01-11 00:38:23 +0000"
     },
     "done": true
   },
