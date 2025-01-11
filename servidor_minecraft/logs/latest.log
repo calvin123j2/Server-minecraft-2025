@@ -10594,3 +10594,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Jan2025 23:02:40.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Dread Hound
 [11Jan2025 23:03:03.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Slugger
 [11Jan2025 23:04:22.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Slugger
+[11Jan2025 23:08:19.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was shot by Stray
+[11Jan2025 23:08:19.215] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[11Jan2025 23:08:19.215] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[11Jan2025 23:08:19.215] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[11Jan2025 23:08:19.215] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[11Jan2025 23:08:19.215] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[11Jan2025 23:09:01.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[11Jan2025 23:09:01.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[11Jan2025 23:09:25.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was shot by Stray
+[11Jan2025 23:11:34.756] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:54109] logged in with entity id 30609 at (-264.5524400917946, 60.5, -6.175837808162899)
+[11Jan2025 23:11:34.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[11Jan2025 23:11:34.862] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[11Jan2025 23:13:25.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was shot by Skeleton
+[11Jan2025 23:14:11.387] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[11Jan2025 23:14:11.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[11Jan2025 23:16:28.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:46579] logged in with entity id 32114 at (-269.9455391149096, 65.0, -3.6802917300669207)
+[11Jan2025 23:16:28.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[11Jan2025 23:16:28.232] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
