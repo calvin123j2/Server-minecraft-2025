@@ -217,3 +217,41 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [11Jan2025 00:51:34.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was shot by Skeleton
 [11Jan2025 00:52:49.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was shot by Skeleton
 [11Jan2025 01:07:25.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 moved wrongly!
+[11Jan2025 01:12:44.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was blown up by Crawler
+[11Jan2025 01:22:08.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> que no les
+[11Jan2025 01:22:13.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Ferrous Wroughtnaut
+[11Jan2025 01:22:15.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> :v
+[11Jan2025 01:22:20.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> ya se curo
+[11Jan2025 01:22:22.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> un rato
+[11Jan2025 01:22:31.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Ferrous Wroughtnaut
+[11Jan2025 01:22:36.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Ferrous Wroughtnaut
+[11Jan2025 01:22:44.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Ferrous Wroughtnaut
+[11Jan2025 01:23:02.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Ferrous Wroughtnaut
+[11Jan2025 01:25:02.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Ferrous Wroughtnaut
+[11Jan2025 01:25:05.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Ferrous Wroughtnaut
+[11Jan2025 01:25:28.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Ferrous Wroughtnaut
+[11Jan2025 01:26:13.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Ferrous Wroughtnaut
+[11Jan2025 01:26:40.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Ferrous Wroughtnaut
+[11Jan2025 01:27:18.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Ferrous Wroughtnaut
+[11Jan2025 01:29:17.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has completed the challenge [Just a Flesh Wound]
+[11Jan2025 01:29:46.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was shot by The Spitter
+[11Jan2025 01:31:17.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[11Jan2025 01:31:17.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[11Jan2025 01:31:17.713] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Jan2025 01:33:06.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:54855] logged in with entity id 62659 at (-166.02590372853223, 33.0, 538.2482855367482)
+[11Jan2025 01:33:06.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[11Jan2025 01:33:06.192] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[11Jan2025 01:33:47.610] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[11Jan2025 01:33:47.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[11Jan2025 01:36:25.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:34765] logged in with entity id 64053 at (-165.67148034233225, 32.0, 539.6790690671124)
+[11Jan2025 01:36:25.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[11Jan2025 01:36:25.306] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[11Jan2025 01:37:00.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Crawler
+[11Jan2025 01:37:05.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
+[11Jan2025 01:37:05.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[11Jan2025 01:37:06.018] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Jan2025 01:37:49.180] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.121.44.211:42773] logged in with entity id 64478 at (-280.48750001192093, 67.0, 29.512270485233557)
+[11Jan2025 01:37:49.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[11Jan2025 01:37:49.212] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[11Jan2025 01:43:20.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 burned to death
+[11Jan2025 01:43:41.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-298, y=64, z=-37} BlockPos{x=-299, y=62, z=-37}

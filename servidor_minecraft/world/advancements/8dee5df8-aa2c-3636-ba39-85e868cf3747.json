@@ -611,12 +611,24 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-01-11 01:29:17 +0000"
+    },
+    "done": true
+  },
   "quark:get_all_corundum": {
     "criteria": {
       "black": "2025-01-11 00:59:55 +0000",
       "indigo": "2025-01-11 01:00:01 +0000"
     },
     "done": false
+  },
+  "sniffsweapons:recipes/combat/weapon_recipes": {
+    "criteria": {
+      "has_binding_string": "2025-01-11 01:31:37 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
