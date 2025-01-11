@@ -10555,3 +10555,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Jan2025 22:28:22.731] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
 [11Jan2025 22:28:22.731] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
 [11Jan2025 22:28:22.731] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[11Jan2025 22:36:21.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt has made the advancement [Bonfire Lit]
+[11Jan2025 22:37:01.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has made the advancement [Not Today, Thank You]
+[11Jan2025 22:37:18.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.121.44.211:48673] logged in with entity id 21680 at (-333.69212777418903, 67.0, -32.5231115855059)
+[11Jan2025 22:37:18.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[11Jan2025 22:37:18.460] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[11Jan2025 22:38:00.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> estan en llamada?
+[11Jan2025 22:39:08.783] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 lost connection: Disconnected
+[11Jan2025 22:39:08.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game
+[11Jan2025 22:40:44.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq died
+[11Jan2025 22:44:56.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq hit the ground too hard
