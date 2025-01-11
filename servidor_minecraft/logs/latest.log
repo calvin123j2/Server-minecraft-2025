@@ -10634,3 +10634,39 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Jan2025 23:36:33.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> mis sapato
 [11Jan2025 23:36:41.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> mis zapatos de mutante jose
 [11Jan2025 23:36:56.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 drowned
+[11Jan2025 23:37:45.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was shot by entity.undead_revamp2.witherball
+[11Jan2025 23:37:54.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> que vr
+[11Jan2025 23:39:20.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 withered away
+[11Jan2025 23:39:46.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 withered away
+[11Jan2025 23:40:14.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was blown up by Intruder
+[11Jan2025 23:40:18.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from 789123: Location (-90.46174746751785, -48.0, 675.0189259462059) too far away from hit block BlockPos{x=-91, y=-50, z=675}.
+[11Jan2025 23:40:23.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 withered away
+[11Jan2025 23:40:45.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was shot by entity.undead_revamp2.witherball
+[11Jan2025 23:40:59.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was killed by Necroth using magic
+[11Jan2025 23:41:28.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has made the advancement [Hot Stuff]
+[11Jan2025 23:41:35.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> oe
+[11Jan2025 23:41:37.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> mis cosas
+[11Jan2025 23:41:46.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 withered away
+[11Jan2025 23:41:56.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> maldito gustavo
+[11Jan2025 23:41:57.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> mis cosas
+[11Jan2025 23:42:18.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was shot by entity.undead_revamp2.witherball
+[11Jan2025 23:42:20.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was shot by entity.undead_revamp2.witherball
+[11Jan2025 23:42:42.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> ya fue
+[11Jan2025 23:42:51.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> hay un creepypasta en la entrada
+[11Jan2025 23:43:07.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> ya fue
+[11Jan2025 23:43:08.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 withered away
+[11Jan2025 23:43:17.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> no
+[11Jan2025 23:43:19.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> maldito
+[11Jan2025 23:43:23.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> mis cosas estaban afuera
+[11Jan2025 23:43:40.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by The Horrors
+[11Jan2025 23:44:05.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 withered away
+[11Jan2025 23:44:05.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by The Horrors
+[11Jan2025 23:44:55.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was doomed to fall
+[11Jan2025 23:45:09.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 withered away
+[11Jan2025 23:45:21.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> ni loco bajo
+[11Jan2025 23:45:26.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> ya fueron mis cosas
+[11Jan2025 23:45:41.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 withered away
+[11Jan2025 23:45:43.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq fell from a high place
+[11Jan2025 23:45:57.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by The Dungeon
+[11Jan2025 23:46:12.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq fell from a high place
+[11Jan2025 23:46:25.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 withered away
