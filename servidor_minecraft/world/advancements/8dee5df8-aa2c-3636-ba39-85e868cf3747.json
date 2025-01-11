@@ -630,5 +630,24 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-01-11 21:53:09 +0000",
+      "minecraft:sheep": "2025-01-11 21:55:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-11 21:53:09 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-01-11 21:42:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

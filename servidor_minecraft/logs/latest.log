@@ -10520,3 +10520,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Jan2025 21:43:00.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
 [11Jan2025 21:43:09.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
 [11Jan2025 21:43:32.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[11Jan2025 21:53:09.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has made the advancement [The Parrots and the Bats]
+[11Jan2025 22:01:44.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Equestrian
+[11Jan2025 22:03:03.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> zzz?
+[11Jan2025 22:06:39.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was doomed to fall by Corpse Maggot
+[11Jan2025 22:07:09.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was doomed to fall by Corpse Maggot
+[11Jan2025 22:10:19.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:40813] logged in with entity id 13709 at (-267.21032932740394, 65.0, -1.8685954577879271)
+[11Jan2025 22:10:19.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[11Jan2025 22:10:19.433] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[11Jan2025 22:10:24.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> wenas
+[11Jan2025 22:10:46.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <789123> fue de chill
+[11Jan2025 22:10:57.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> sisisi
+[11Jan2025 22:11:01.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> como no
+[11Jan2025 22:11:18.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[11Jan2025 22:11:18.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[11Jan2025 22:13:00.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt has made the advancement [Enchanter]
+[11Jan2025 22:13:41.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:52275] logged in with entity id 14799 at (-267.21032932740394, 60.0, -1.8685954577879271)
+[11Jan2025 22:13:41.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[11Jan2025 22:13:41.930] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[11Jan2025 22:15:35.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> porque sacan cosas
+[11Jan2025 22:15:37.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> de mi cs
+[11Jan2025 22:15:49.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <789123> yo ni fui po ahi
+[11Jan2025 22:16:58.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> vamos a hacer llamada o no
+[11Jan2025 22:21:06.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> hago llamada?
+[11Jan2025 22:21:23.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> ya
+[11Jan2025 22:22:28.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Nightmare Stalker
+[11Jan2025 22:22:43.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has made the advancement [Alex's Caves]
+[11Jan2025 22:22:54.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has made the advancement [It Belongs in a Museum]
