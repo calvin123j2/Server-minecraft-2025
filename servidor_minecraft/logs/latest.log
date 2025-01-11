@@ -10547,3 +10547,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Jan2025 22:22:28.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Nightmare Stalker
 [11Jan2025 22:22:43.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has made the advancement [Alex's Caves]
 [11Jan2025 22:22:54.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has made the advancement [It Belongs in a Museum]
+[11Jan2025 22:26:16.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 died
+[11Jan2025 22:27:51.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has made the advancement [Cool, Cool Cave]
+[11Jan2025 22:28:22.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by davisdrt
+[11Jan2025 22:28:22.729] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[11Jan2025 22:28:22.730] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[11Jan2025 22:28:22.731] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[11Jan2025 22:28:22.731] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[11Jan2025 22:28:22.731] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
