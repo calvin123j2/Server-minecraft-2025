@@ -10499,3 +10499,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Jan2025 21:34:37.660] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.18.60.42:46381] logged in with entity id 2207 at (-396.2393955067943, 71.0, 148.8031933791954)
 [11Jan2025 21:34:37.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
 [11Jan2025 21:34:37.750] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[11Jan2025 21:35:15.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <789123> david
+[11Jan2025 21:35:20.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> wenas
+[11Jan2025 21:36:02.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <789123> tienes madera de abeto
+[11Jan2025 21:36:09.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> nope
+[11Jan2025 21:36:14.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> y mis diamantes
+[11Jan2025 21:36:18.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> ????
+[11Jan2025 21:37:34.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <789123> yo nose
+[11Jan2025 21:39:30.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Dread Hound
+[11Jan2025 21:39:34.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> xd
+[11Jan2025 21:40:46.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[11Jan2025 21:41:26.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[11Jan2025 21:41:51.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was shot by Explosive Zombie
+[11Jan2025 21:42:12.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has made the advancement [Junior Summoner]
+[11Jan2025 21:42:19.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[11Jan2025 21:42:27.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[11Jan2025 21:42:34.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[11Jan2025 21:42:42.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[11Jan2025 21:42:50.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[11Jan2025 21:43:00.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[11Jan2025 21:43:09.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[11Jan2025 21:43:32.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
