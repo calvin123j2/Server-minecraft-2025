@@ -10612,3 +10612,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Jan2025 23:16:28.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:46579] logged in with entity id 32114 at (-269.9455391149096, 65.0, -3.6802917300669207)
 [11Jan2025 23:16:28.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
 [11Jan2025 23:16:28.232] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[11Jan2025 23:17:43.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> ZZZ
+[11Jan2025 23:17:45.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> zzz
+[11Jan2025 23:17:47.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> ZZZ
+[11Jan2025 23:17:48.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> ZZZ
+[11Jan2025 23:19:56.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved wrongly!
+[11Jan2025 23:21:15.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=60, z=204} BlockPos{x=-245, y=59, z=203}
+[11Jan2025 23:22:31.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-200, y=73, z=454} BlockPos{x=-200, y=74, z=454}
+[11Jan2025 23:24:46.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Hot Stuff]
+[11Jan2025 23:26:11.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has made the advancement [Sneak 100]
+[11Jan2025 23:26:27.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt has made the advancement [Sneak 100]
