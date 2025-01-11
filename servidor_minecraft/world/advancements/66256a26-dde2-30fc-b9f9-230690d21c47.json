@@ -379,6 +379,7 @@
       "neapolitan:strawberries": "2025-01-08 16:55:15 +0000",
       "cooked_beef": "2025-01-08 17:12:44 +0000",
       "mutton": "2025-01-08 18:22:29 +0000",
+      "cooked_chicken": "2025-01-11 23:23:00 +0000",
       "cooked_mutton": "2025-01-08 15:14:17 +0000",
       "pumpkin_pie": "2025-01-08 21:20:30 +0000",
       "golden_carrot": "2025-01-08 20:40:00 +0000",
@@ -862,6 +863,18 @@
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2025-01-11 02:15:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-11 23:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-11 23:28:20 +0000"
     },
     "done": true
   },
