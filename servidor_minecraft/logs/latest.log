@@ -10565,3 +10565,32 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Jan2025 22:39:08.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game
 [11Jan2025 22:40:44.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq died
 [11Jan2025 22:44:56.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq hit the ground too hard
+[11Jan2025 22:57:48.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved wrongly!
+[11Jan2025 22:59:35.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was shot by Mutant Skeleton
+[11Jan2025 23:00:26.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Nightmare Stalker
+[11Jan2025 23:00:31.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
+[11Jan2025 23:00:31.259] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[11Jan2025 23:00:31.260] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[11Jan2025 23:00:31.260] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[11Jan2025 23:00:31.260] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[11Jan2025 23:00:31.260] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[11Jan2025 23:00:39.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
+[11Jan2025 23:00:46.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
+[11Jan2025 23:00:54.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
+[11Jan2025 23:01:00.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
+[11Jan2025 23:01:00.456] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[11Jan2025 23:01:00.457] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[11Jan2025 23:01:00.457] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[11Jan2025 23:01:00.457] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[11Jan2025 23:01:00.458] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[11Jan2025 23:01:07.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
+[11Jan2025 23:01:19.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 died whilst trying to escape Direwolf
+[11Jan2025 23:01:22.156] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@ad7072e[id=<null>,name=789123,properties={},legacy=false] (/127.18.60.42:52801) lost connection: Timed out
+[11Jan2025 23:01:44.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was blown up by Creeper
+[11Jan2025 23:01:45.101] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.18.60.42:60135] logged in with entity id 27412 at (-305.6689287143986, -12.0, 189.69999998807907)
+[11Jan2025 23:01:45.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
+[11Jan2025 23:01:45.186] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[11Jan2025 23:02:35.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt has reached the goal [Exorcism]
+[11Jan2025 23:02:40.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Dread Hound
+[11Jan2025 23:03:03.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Slugger
+[11Jan2025 23:04:22.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Slugger
