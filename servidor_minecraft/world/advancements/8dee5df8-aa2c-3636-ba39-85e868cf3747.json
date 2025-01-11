@@ -611,5 +611,12 @@
     },
     "done": true
   },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "black": "2025-01-11 00:59:55 +0000",
+      "indigo": "2025-01-11 01:00:01 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

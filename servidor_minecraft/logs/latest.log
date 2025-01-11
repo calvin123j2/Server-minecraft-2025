@@ -210,3 +210,10 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [11Jan2025 00:40:06.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was struck by Jos3enriq's shooting stars
 [11Jan2025 00:41:56.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 lost connection: Disconnected
 [11Jan2025 00:41:56.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game
+[11Jan2025 00:50:26.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.18.60.42:39003] logged in with entity id 51109 at (-161.57233367895623, 21.0, 489.30000001192093)
+[11Jan2025 00:50:26.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
+[11Jan2025 00:50:26.872] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[11Jan2025 00:51:24.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was blown up by Creeper
+[11Jan2025 00:51:34.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was shot by Skeleton
+[11Jan2025 00:52:49.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was shot by Skeleton
+[11Jan2025 01:07:25.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 moved wrongly!
