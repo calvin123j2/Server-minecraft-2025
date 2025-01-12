@@ -282,6 +282,7 @@
       "minecraft:beach": "2025-01-08 14:44:04 +0000",
       "minecraft:river": "2025-01-08 15:20:35 +0000",
       "minecraft:stony_shore": "2025-01-10 02:10:00 +0000",
+      "minecraft:cold_ocean": "2025-01-12 02:08:03 +0000",
       "minecraft:forest": "2025-01-08 14:47:49 +0000",
       "autumnity:autumnity:maple_forest": "2025-01-10 02:05:34 +0000",
       "minecraft:ocean": "2025-01-08 14:45:35 +0000",
@@ -707,6 +708,18 @@
   "immersive_weathering:immersive_weathering/moss_off_2": {
     "criteria": {
       "wax_off": "2025-01-12 00:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-12 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2025-01-12 02:02:50 +0000"
     },
     "done": true
   },
