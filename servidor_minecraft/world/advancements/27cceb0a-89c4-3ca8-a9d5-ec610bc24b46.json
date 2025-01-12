@@ -362,6 +362,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "neapolitan:strawberry_scones": "2025-01-08 15:33:18 +0000",
+      "melon_slice": "2025-01-12 01:55:31 +0000",
       "neapolitan:strawberries": "2025-01-08 19:19:00 +0000",
       "cooked_porkchop": "2025-01-08 15:19:03 +0000",
       "cooked_beef": "2025-01-08 19:20:35 +0000",
